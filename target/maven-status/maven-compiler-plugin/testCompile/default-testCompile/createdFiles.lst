@@ -1,0 +1,4 @@
+com\jubydull\demo\controller\StudentControllerTest.class
+com\jubydull\demo\DemoApplicationTests.class
+com\jubydull\demo\repository\StudentRepositoryTest.class
+com\jubydull\demo\service\StudentServiceTest.class
