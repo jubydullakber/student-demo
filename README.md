@@ -4,7 +4,7 @@
 
 # Steps to Setup
 # Clone the application 
- https://github.com/jubydullakber/demo.git
+ https://github.com/jubydullakber/student-demo.git
 
  open src/main/resources/application.properties
 
